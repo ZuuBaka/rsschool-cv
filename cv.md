@@ -1,4 +1,4 @@
-# _**Alex Gerzha**_
+# _**Nikita Gerzha**_
 _**Phone number:** +375(29) 222-38-09 | **Email:** n.gerzha@yandex.ru or gerzha98@gmail.com | **Age:** 21_
 
 ### About me
