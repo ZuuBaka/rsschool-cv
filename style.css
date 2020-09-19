@@ -1,0 +1,48 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+body {
+  font-family: "Times New Roman", Times, sans-serif;
+  margin: 25px 25%;
+}
+header {
+  height: 200px;
+  border-bottom: 1px solid black;
+}
+.head {
+    font-size: 64px;
+  font-weight: 700;
+}
+.avatar {
+  position: absolute;
+  width: 130px;
+  height: 180px;
+  left: 67%;
+  top: 25px;
+}
+.avatar img {
+  width: 100%;
+}
+.cursiv {
+  position: absolute;
+  top: 195px;
+  font-style: italic;
+  font-size: 16px;
+}
+.cursiv a {
+  text-decoration: none;
+  color: rgb(25, 0, 255);
+}
+.bold_text {
+  font-weight: bold;
+}
+.spec_under{
+    font-style: italic;
+    text-decoration: underline;
+}
+.courses span{
+    font-size: 18px;
+    margin-left: -40px;
+}
